@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sumair-aslam09
-- 👀 I’m interested in DevOps
+- 👋 Hi, I’m sumair-aslam
 - 🌱 I’m currently working as an Associate DevOps Engineer.
 
 
